@@ -1,4 +1,4 @@
-# KittyCanvas
+# KittyKanvas
 
 KittyKanvas is a lightweight tool that refreshes your wallpaper with stunning cat art, bringing a touch of feline charm and creativity to your desktop.
 
